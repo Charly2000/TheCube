@@ -8,16 +8,15 @@ public class level_choose : MonoBehaviour {
 
         
     }
-    Ray ray;
-    RaycastHit hit;
+
+    //Ray ray;
+    //RaycastHit hit;
 	// Update is called once per frame
 	void Update () {
-        ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        if (Physics.Raycast(ray, out hit))
-        {
+        //ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        //if (Physics.Raycast(ray, out hit))
+        //{
             
             
         }
-	}
-
 }

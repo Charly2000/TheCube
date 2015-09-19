@@ -5,12 +5,16 @@ public class level_1_btn : MonoBehaviour
 {
     void OnMouseDown()
     {
-        print(gameObject.name);
-        transform.localScale += new Vector3(2, 2, 2);
-
+        bool open = false;
+        
+        if (open == true) {
+            transform.localScale += new Vector3(-100, -100, -10);
+            open = false;
+        }   
+        else if(open == false) {
+            transform.localScale += new Vector3(100, 100, 10);
+            open = true;
+        }
+  
     }
-
-//    public GameObject thelight = null;
-
-//    private void
 }
