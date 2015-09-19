@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 1336a57a1e8564cb2b5141c3491c48ce
+timeCreated: 1442681869
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm L. 1
+    100002: Arm L. 1.001
+    100004: Arm L. 3
+    100006: Arm R. 3
+    100008: Armature
+    100010: Bein L. 1
+    100012: Bein L. 2
+    100014: Bein L. 3
+    100016: Bein R. 1
+    100018: Bein R. 2
+    100020: Bein R. 3
+    100022: Bone
+    100024: Bone.001
+    100026: Bone.001_end
+    100028: Bone.004
+    100030: Bone.004_end
+    100032: Bone.005
+    100034: Bone.005_end
+    100036: Bone.007
+    100038: Bone.007_end
+    100040: Bone.008
+    100042: Bone.008_end
+    100044: //RootNode
+    100046: Kopf
+    100048: Schulter Links
+    100050: Schulter Rechts
+    100052: Schulter Rechts.001
+    100054: Schulter Rechts.002
+    100056: Wirbel 1
+    100058: Wirbel 2
+    100060: Wirbel 3
+    100062: Wirbel 4
+    400000: Arm L. 1
+    400002: Arm L. 1.001
+    400004: Arm L. 3
+    400006: Arm R. 3
+    400008: Armature
+    400010: Bein L. 1
+    400012: Bein L. 2
+    400014: Bein L. 3
+    400016: Bein R. 1
+    400018: Bein R. 2
+    400020: Bein R. 3
+    400022: Bone
+    400024: Bone.001
+    400026: Bone.001_end
+    400028: Bone.004
+    400030: Bone.004_end
+    400032: Bone.005
+    400034: Bone.005_end
+    400036: Bone.007
+    400038: Bone.007_end
+    400040: Bone.008
+    400042: Bone.008_end
+    400044: //RootNode
+    400046: Kopf
+    400048: Schulter Links
+    400050: Schulter Rechts
+    400052: Schulter Rechts.001
+    400054: Schulter Rechts.002
+    400056: Wirbel 1
+    400058: Wirbel 2
+    400060: Wirbel 3
+    400062: Wirbel 4
+    4300000: Arm L. 1.001
+    4300002: Schulter Rechts.002
+    4300004: Schulter Rechts.001
+    4300006: Bein R. 2
+    4300008: Arm L. 3
+    4300010: Arm R. 3
+    4300012: Arm L. 1
+    4300014: Schulter Links
+    4300016: Schulter Rechts
+    4300018: Wirbel 1
+    4300020: Wirbel 2
+    4300022: Wirbel 3
+    4300024: Kopf
+    4300026: Bein R. 3
+    4300028: Bein L. 3
+    4300030: Bein L. 2
+    4300032: Bein R. 1
+    4300034: Bein L. 1
+    4300036: Wirbel 4
+    7400000: Armature|ArmatureAction
+    7400002: Armature|PoseLib
+    9500000: //RootNode
+    13700000: Arm L. 1
+    13700002: Arm L. 1.001
+    13700004: Arm L. 3
+    13700006: Arm R. 3
+    13700008: Bein L. 1
+    13700010: Bein L. 2
+    13700012: Bein L. 3
+    13700014: Bein R. 1
+    13700016: Bein R. 2
+    13700018: Bein R. 3
+    13700020: Kopf
+    13700022: Schulter Links
+    13700024: Schulter Rechts
+    13700026: Schulter Rechts.001
+    13700028: Schulter Rechts.002
+    13700030: Wirbel 1
+    13700032: Wirbel 2
+    13700034: Wirbel 3
+    13700036: Wirbel 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
