@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theCube_JH_build.CSharp.Plugins", "theCube_JH_build.CSharp.Plugins.csproj", "{069A3D31-89E7-5A4E-FDFD-30CB297B4AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theCube_JH_build.CSharp", "theCube_JH_build.CSharp.csproj", "{896C824D-868F-33F3-C8A9-2A5B9735A5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theCube_JH_build.CSharp.Editor", "theCube_JH_build.CSharp.Editor.csproj", "{73489F84-8F5E-5A7A-858C-3935932B4F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069A3D31-89E7-5A4E-FDFD-30CB297B4AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069A3D31-89E7-5A4E-FDFD-30CB297B4AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069A3D31-89E7-5A4E-FDFD-30CB297B4AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069A3D31-89E7-5A4E-FDFD-30CB297B4AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896C824D-868F-33F3-C8A9-2A5B9735A5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896C824D-868F-33F3-C8A9-2A5B9735A5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896C824D-868F-33F3-C8A9-2A5B9735A5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896C824D-868F-33F3-C8A9-2A5B9735A5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73489F84-8F5E-5A7A-858C-3935932B4F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73489F84-8F5E-5A7A-858C-3935932B4F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73489F84-8F5E-5A7A-858C-3935932B4F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73489F84-8F5E-5A7A-858C-3935932B4F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

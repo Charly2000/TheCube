@@ -1,0 +1,34 @@
+Mono path[0] = 'C:/Users/Malte/Desktop/theCube_JH_build/theCube_build_1_1_completeGame_Data/Managed'
+Mono path[1] = 'C:/Users/Malte/Desktop/theCube_JH_build/theCube_build_1_1_completeGame_Data/Mono'
+Mono config path = 'C:/Users/Malte/Desktop/theCube_JH_build/theCube_build_1_1_completeGame_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Malte/Desktop/theCube_JH_build/theCube_build_1_1_completeGame_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55148
+Multi-casting "[IP] 192.168.86.59 [Port] 55148 [Flags] 2 [Guid] 2714198133 [EditorId] 87883271 [Version] 1048832 [Id] WindowsPlayer(VAIO) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.86.59:55148]
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.245 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Malte\Desktop\theCube_JH_build\theCube_build_1_1_completeGame_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ce4 -> priority: 1 
